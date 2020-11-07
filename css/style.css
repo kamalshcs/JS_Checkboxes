@@ -1,0 +1,33 @@
+.inbox{
+    margin: 1% 30%;
+    padding:2%;
+    text-align: center;
+    color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   }
+
+.item{
+    margin:1% 0%;
+    padding:3%;
+    
+    border-radius: 5px;
+}
+
+p{
+    display:inline;
+    padding-left: 1%;
+}
+
+ul{
+   
+    justify-content: center;
+    align-content: center;
+    margin: 1% 35%;
+    padding:0%;
+}
+
+li{
+    margin:0% 0%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:grey;
+}
